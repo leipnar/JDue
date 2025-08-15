@@ -58,7 +58,7 @@ https://jdue.leipnar.com
 │   └── index.js            \# API routing and endpoint definitions  
 ├── .env.example            \# Example environment variables (DO NOT COMMIT .env)  
 ├── .gitignore              \# Files/directories ignored by Git  
-├── package.json            \# Project dependencies and scripts (Version 1.0.2)  
+├── package.json            \# Project dependencies and scripts  
 ├── package-lock.json       \# Locked versions of dependencies  
 └── README.md               \# This file
 
