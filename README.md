@@ -116,7 +116,7 @@ For testing the deployed application, you can use the following accounts:
 
 ### **User Account**
 
-* **Email:** test@leipnar.com  
+* **Email:** test@example.com  
 * **Password:** SecurePassword123\!  
 * **Role:** Regular user
 
