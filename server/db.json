@@ -1,0 +1,23 @@
+
+{
+  "users": [
+    {
+      "id": "admin-user-01",
+      "username": "admin",
+      "email": "admin@example.com",
+      "passwordHash": "$2a$10$9.7k6jORaR.O9YkXYV./A.xS3Zt2V2l3d4n5F6G7H8i9J0k1L2m3n",
+      "salt": "$2a$10$9.7k6jORaR.O9YkXYV./A.",
+      "isAdmin": true,
+      "passkeys": [],
+      "status": "active"
+    }
+  ],
+  "projects": [
+    {
+      "id": "default-project-01",
+      "name": "Admin's Project",
+      "userId": "admin-user-01"
+    }
+  ],
+  "tasks": []
+}
