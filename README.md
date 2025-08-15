@@ -122,7 +122,7 @@ For testing the deployed application, you can use the following accounts:
 
 ### **Admin Account**
 
-* **Email:** admin@leipnar.com  
+* **Email:** admin@example.com  
 * **Password:** \[Set manually in database after hashing\]  
 * **Role:** Admin (manually set in database post-creation)  
 * **Access:** Admin dashboard with user management and system statistics.
